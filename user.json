@@ -1,5 +1,4 @@
-{
-  "posts":[
+[
   {
   "id":"001",
   "title":"title001",
@@ -49,4 +48,4 @@
   "designation":"designation006"
   }
   ]
-}
+
