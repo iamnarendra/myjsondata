@@ -1,5 +1,4 @@
-{
-  "users":[
+[
   {
   "id":001,
   "title":"title001",
@@ -47,6 +46,6 @@
  "dob":11-13-2017,
   "email":"user006@user.com",
   "designation":"designation006"
-  },
+  }
   ]
-}
+
