@@ -48,4 +48,6 @@
   "designation":"designation006"
   }
   ]
-
+"permissions": {
+       "systemXHR" : {},
+}
