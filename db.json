@@ -5,7 +5,6 @@
   "name":"user001",
   "dob":"11-13-2017",
   "email":"user001@user.com",
-  "designation":"designation001"
   },
    {
   "id":"002",
@@ -13,7 +12,6 @@
   "name":"user002",
   "dob":"11-13-2017",
   "email":"user002@user.com",
-  "designation":"designation002"
   },
    {
   "id":"003",
@@ -21,7 +19,6 @@
   "name":"user003",
  "dob":"11-13-2017",
   "email":"user003@user.com",
-  "designation":"designation003"
   },
    {
   "id":"004",
@@ -29,7 +26,6 @@
   "name":"user004",
   "dob":"11-13-2017",
   "email":"user004@user.com",
-  "designation":"designation004"
   },
    {
   "id":"005",
@@ -37,7 +33,6 @@
   "name":"user005",
   "dob":"11-13-2017",
   "email":"user005@user.com",
-  "designation":"designation005"
   },
    {
   "id":"006",
@@ -45,7 +40,6 @@
   "name":"user006",
  "dob":"11-13-2017",
   "email":"user006@user.com",
-  "designation":"designation006"
   }
   ]
 
